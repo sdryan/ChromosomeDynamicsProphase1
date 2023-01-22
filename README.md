@@ -1,5 +1,5 @@
 # ChromosomeDynamicsProphase1
-Supplemental Matlab codes, movies, and materials for Chriss et al. "Chromosome numbers, repulsive and attractive forces as determinants of homolog pairing during meiosis"
+Supplemental Matlab codes, movies, and materials for Chriss et al. "Modeling identifies chromosome number, size, and non-homologous repulsion as novel determinants of meiotic pairing"
 
 The Matlab code will appear after submission for publication.
 
