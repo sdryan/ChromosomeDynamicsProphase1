@@ -1,5 +1,5 @@
 # ChromosomeDynamicsProphase1
-Supplemental Matlab codes, movies, and materials for Chriss et al. "Modeling identifies chromosome number, size, and non-homologous repulsion as novel determinants of meiotic pairing"
+Supplemental Matlab codes, movies, and materials for Chriss et al. "Agent-Based Modeling of a Nuclear Chromosome Ensemble Identifies Determinants of Homolog Pairing During Meiosis"
 
 The Matlab code will appear after submission for publication.
 
